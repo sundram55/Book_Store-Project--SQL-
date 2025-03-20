@@ -30,6 +30,10 @@ The project consists of three datasets:
   - 2023: \$36,339.97
   - 2024: \$36,775.33
 
+## 📷 Project Visualization
+
+![Bookstore Sales Analysis](https://github.com/sundram55/Book_Store-Project--SQL-/blob/main/bookstore.png)
+
 ## ⚙️ SQL Techniques Used
 
 - Data cleaning and transformation
